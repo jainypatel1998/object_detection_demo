@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20190814_144910.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\Distat-Remote-ML\data\images\train\IMG_20190814_144910.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac remote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>127</ymin>
+			<xmax>474</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

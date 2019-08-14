@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image1.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\Distat-Remote-ML\data\images\train\image1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tv remote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>135</ymin>
+			<xmax>504</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ac remote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>409</ymin>
+			<xmax>475</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ac remote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>223</ymin>
+			<xmax>702</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

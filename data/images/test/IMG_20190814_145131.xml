@@ -1,0 +1,74 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_20190814_145131.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\Distat-Remote-ML\data\images\test\IMG_20190814_145131.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac remote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>328</ymin>
+			<xmax>479</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tv remote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>323</ymin>
+			<xmax>360</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tv remote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>134</ymin>
+			<xmax>383</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tv remote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>550</xmin>
+			<ymin>306</ymin>
+			<xmax>642</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tv remote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>109</ymin>
+			<xmax>519</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>
