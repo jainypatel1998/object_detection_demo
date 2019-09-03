@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>018 (Custom).JPG</filename>
+	<path>C:\Users\admin\Desktop\object_detection_demo\data\images\test\018 (Custom).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>203</ymin>
+			<xmax>458</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

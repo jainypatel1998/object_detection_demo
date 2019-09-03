@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>002 (Custom).JPG</filename>
+	<path>C:\Users\admin\Desktop\object_detection_demo\data\images\train\002 (Custom).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>214</ymin>
+			<xmax>307</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>
