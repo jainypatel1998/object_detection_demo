@@ -6,21 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>590</width>
-		<height>800</height>
+		<width>400</width>
+		<height>542</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>valve</name>
+		<name>Valve</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>206</xmin>
-			<ymin>214</ymin>
-			<xmax>319</xmax>
-			<ymax>421</ymax>
+			<xmin>139</xmin>
+			<ymin>143</ymin>
+			<xmax>220</xmax>
+			<ymax>283</ymax>
 		</bndbox>
 	</object>
 </annotation>

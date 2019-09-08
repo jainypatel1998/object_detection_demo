@@ -1,26 +1,26 @@
 <annotation>
-	<folder>train</folder>
+	<folder>test</folder>
 	<filename>013 (Custom).JPG</filename>
-	<path>C:\Users\admin\Desktop\object_detection_demo\data\images\train\013 (Custom).JPG</path>
+	<path>C:\Users\admin\Desktop\object_detection_demo\data\images\test\013 (Custom).JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>600</width>
-		<height>782</height>
+		<width>400</width>
+		<height>521</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>valve</name>
+		<name>Valve</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>243</xmin>
-			<ymin>209</ymin>
-			<xmax>345</xmax>
-			<ymax>422</ymax>
+			<xmin>162</xmin>
+			<ymin>138</ymin>
+			<xmax>227</xmax>
+			<ymax>280</ymax>
 		</bndbox>
 	</object>
 </annotation>
