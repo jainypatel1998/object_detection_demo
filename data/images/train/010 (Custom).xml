@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
-	<filename>010 (Custom).JPG</filename>
-	<path>C:\Users\admin\Desktop\object_detection_demo\data\images\train\010 (Custom).JPG</path>
+	<filename>010 (Custom).jpg</filename>
+	<path>C:\Users\admin\Desktop\object_detection_demo\data\images\train\010 (Custom).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>597</width>
-		<height>800</height>
+		<width>800</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>206</xmin>
-			<ymin>259</ymin>
-			<xmax>347</xmax>
-			<ymax>470</ymax>
+			<xmin>336</xmin>
+			<ymin>194</ymin>
+			<xmax>433</xmax>
+			<ymax>349</ymax>
 		</bndbox>
 	</object>
 </annotation>
